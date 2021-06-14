@@ -50,7 +50,6 @@ gender -- male selected, Expected output is You were born on Sunday and Your aka
 Known Bugs
 Some output are not as accurate as expected..
 Contact Information
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
 
 License
 MIT License:
