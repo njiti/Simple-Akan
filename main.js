@@ -5,13 +5,13 @@ function verify(){
     var yearOfBirth = document.getElementById('year').value;
   
     if(date===""||date<1||date>31){
-      alert("Date must be between 1 and 31");
+      alert("The Gregorian calendar only has a maximum of 31 days");
     }
     else if(month===""||month<1||month>12){
-      alert("Date must be between 1 and 12");
+      alert("Sorry but we are using the Gregorian calendar that has 12 months");
     }
     else if(year===""){
-      alert("You must enter a value year");
+      alert("Sorry but human-beings have a life span of 80 years .You may calculate your birth year from that info");
     }
     else{
       return false;
